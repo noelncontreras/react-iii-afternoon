@@ -1,0 +1,11 @@
+.nav-bar {
+    width: 100vw;
+    height: 15vh;
+    background-color: rgb(45, 155, 213);
+    display: flex;
+}
+.nav-bar > h1 {
+    font-size: 40px;
+    font-weight: bolder;
+    margin-left: 5vw;
+}

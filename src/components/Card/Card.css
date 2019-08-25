@@ -1,0 +1,26 @@
+.card-body {
+    width: 60vw;
+    height: 70vh;
+    background-color: white;
+    font-weight: bolder;
+}
+.num-counter {
+    justify-content: flex-end;
+}
+main > h1 {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 50px;
+}
+.movie-list {
+    margin-left: 10vh;
+    text-align: start;
+    list-style-type: decimal;
+}
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}
+.previous-button, .next-button {
+    color: white;
+}
